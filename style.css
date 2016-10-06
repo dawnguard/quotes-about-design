@@ -1,3 +1,9 @@
+/*Important Stuff*/
+button {
+  outline: none!important;
+}
+/*===============*/
+
 .container {
     margin-top: default;
     margin-bottom: 1rem;
